@@ -1,0 +1,14 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Введение}{2}%
+\contentsline {section}{\numberline {2}Модель с перерывами в работе прибора}{3}%
+\contentsline {subsection}{\numberline {2.1}Описание модели}{3}%
+\contentsline {subsection}{\numberline {2.2}Нахождение формулы предельного распределения процесса $\textbf {\textit {q(t)}}$}{4}%
+\contentsline {subsection}{\numberline {2.3}Нахождение формулы для математического ожидания числа требований в стационарном режиме}{10}%
+\contentsline {section}{\numberline {3}Модель с перерывами в работе прибора и задержками}{11}%
+\contentsline {subsection}{\numberline {3.1}Постановка задачи}{11}%
+\contentsline {subsection}{\numberline {3.2}Описание модели}{12}%
+\contentsline {subsection}{\numberline {3.3}Вывод уравнений баланса}{13}%
+\contentsline {subsection}{\numberline {3.4}Необходимое и достаточное условие стабильности системы.}{15}%
+\contentsline {subsection}{\numberline {3.5}Операционные характеристики}{17}%
+\contentsline {section}{\numberline {4}Оптимизационная задача}{18}%
+\contentsline {section}{\numberline {5}Литература}{20}%
